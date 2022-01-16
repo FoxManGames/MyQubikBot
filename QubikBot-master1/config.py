@@ -1,9 +1,7 @@
 import discord
 from discord.ext import commands
 
-token = 'NzYyNTk3MzU2MTY3MjMzNTQ2.X3reIg.TnTJQp3fkVTPtA9FZm9ww0FaY1U'
-# Мое - Njg1NTI5NTczMjM2MTQ2Mjg0.XmJ_Kg.MuaAd35oJtAnI_Gaw2Bgu8WGjJs
-# Некита - NzYyNTk3MzU2MTY3MjMzNTQ2.X3reIg.TnTJQp3fkVTPtA9FZm9ww0FaY1U
+token = ''
 log_f = True
 prefix = '.'
 intents = discord.Intents.all()
